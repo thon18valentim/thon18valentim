@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/othon-valentim-799b361a0/details/projects/](https://www.linkedin.com/in/othon-valentim-799b361a0/details/projects/)
 
-- 💬 Ask me about **csharp, api and unity**
+- 💬 Ask me about **csharp, webapi and unity**
 
 - 📫 How to reach me **othonvvalentim@gmail.com**
 
